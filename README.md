@@ -1,1 +1,1 @@
-Programa no qual vai fazer uma ligação de um celular com o outro
+Programa no qual fara um celular receber notificações de outro celular
